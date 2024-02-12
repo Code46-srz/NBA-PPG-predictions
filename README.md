@@ -1,3 +1,3 @@
 # NBA-PPG-predictions
 Predicting the ppg of rookie players, 
-[View Jupyter Notebook](PPGPREDICTIONS.ipynb)
+[View Jupyter Notebook](PPG%20PREDICTIONS.ipynb)
